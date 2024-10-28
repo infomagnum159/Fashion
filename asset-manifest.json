@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SHOP_LIAMA/static/css/main.967ffced.css",
+    "main.js": "/SHOP_LIAMA/static/js/main.c7c7175a.js",
+    "static/media/bcgr.svg": "/SHOP_LIAMA/static/media/bcgr.02f58ec064e540b6d986.svg",
+    "static/media/image 14.svg": "/SHOP_LIAMA/static/media/image 14.a7fb2ef2847f12ce9946bdd918e07b88.svg",
+    "static/media/image 12.svg": "/SHOP_LIAMA/static/media/image 12.8254efe15372433ffe3a66fa1d31c18a.svg",
+    "static/media/image 13.svg": "/SHOP_LIAMA/static/media/image 13.3852cb6b03990ca5e601b35abf136655.svg",
+    "static/media/image 11.svg": "/SHOP_LIAMA/static/media/image 11.58e68267ebe98fce301bdf38dda00f4e.svg",
+    "static/media/gucci-logo-1 1.svg": "/SHOP_LIAMA/static/media/gucci-logo-1 1.2c62e278a40b68a37b080d78fb5bdf61.svg",
+    "static/media/veerc.svg": "/SHOP_LIAMA/static/media/veerc.e19ec8e79079077557a68e17a3d27c63.svg",
+    "static/media/calvin.svg": "/SHOP_LIAMA/static/media/calvin.5eec7e811cc80318fe361a494290be7f.svg",
+    "static/media/prada-logo-1 1.svg": "/SHOP_LIAMA/static/media/prada-logo-1 1.8f334db8a0e05e9c153d28182cc31b6a.svg",
+    "static/media/zara-logo-1 1.svg": "/SHOP_LIAMA/static/media/zara-logo-1 1.5d932acd965b7d2636646c243bf8dc43.svg",
+    "index.html": "/SHOP_LIAMA/index.html",
+    "static/media/star2.svg": "/SHOP_LIAMA/static/media/star2.9cd8e2b255f5b5991ae5302793d47fb5.svg",
+    "main.967ffced.css.map": "/SHOP_LIAMA/static/css/main.967ffced.css.map",
+    "main.c7c7175a.js.map": "/SHOP_LIAMA/static/js/main.c7c7175a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967ffced.css",
+    "static/js/main.c7c7175a.js"
+  ]
+}
